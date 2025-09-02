@@ -1,0 +1,7 @@
+textarea {
+    min-height: 400px;
+}
+
+.email-row:hover {
+    background: #e9f2ff !important;
+}
